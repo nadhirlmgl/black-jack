@@ -65,7 +65,7 @@ d=deposit()
 while True:
     x=bet()
     if x>d:
-        print ("you dont have enough money for that asba")
+        print ("you dont have enough money for that bet")
     else:
         break
 t=d-x
